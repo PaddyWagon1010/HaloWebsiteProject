@@ -1,0 +1,70 @@
+body, ul, li, h1, h2, a{
+  margin: 0;
+  padding: 0;
+  font-family: protest riot;
+  box-sizing: border-box;
+}
+header{
+  background-color: black;
+  width: 100%;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  height: 50px;
+  position: fixed;
+  text-align: center;
+  padding-top: 10px;
+}
+header h1{
+  color: blue;
+  border: 4px solid grey;
+  padding: 0 40px;
+  display: inline-block;
+  font-size: 28px;
+}
+section img{
+  width: 100%;
+}
+main {
+  width: 100%;
+  max-width: 1200px;
+  margin: 60px auto;
+  padding: 0 40px;
+  box-sizing: border-box;
+}
+article h2 {
+  font-family: protest revolution;
+}
+article p {
+  line-height: 30px;
+}
+article img {
+  width: 500px;
+  padding: 10px;
+}
+.ODST33 {
+  width: 556px;
+}
+.rookie1 {
+  padding-left: 250px;
+  width: 600px;
+}
+.nav5 {
+  background-color: black;
+  padding: 20px;
+  max-width: 100%;
+  white-space: nowrap;
+}
+nav ul {
+padding: 0 auto;
+white-space: nowrap;
+box-sizing: border-box;
+}
+nav li{
+display: inline-block;
+width: 20%;
+box-sizing: border-box;
+}
+nav li a{
+  color: blue;
+}

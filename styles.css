@@ -92,17 +92,24 @@ article p {
 section h2 {
 font-family: protest revolution;
 text-align: center;
+padding-top: 15px;
 }
 .subscribe {
   text-align: center;
   line-height: 25px;
+  background-color: rgb(210, 209, 209);
 }
 form input {
   font-size: 20px;
   border: 2px solid rgb(199, 199, 199);
   box-shadow: 2px 2px 2px grey;
   border-radius: 40px;
+  margin-bottom: 20px;
 }
 footer{
   text-align: center;
+  background-color: green;
+  color: white;
+  width: 100%;
+  padding: 15px;
 }
